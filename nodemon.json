@@ -1,0 +1,7 @@
+{
+    "watch": ["server.js", "config", "routes", "models"],
+    "ignore": ["node_modules", "logs", "temp"],
+    "ext": "js,json",
+    "exec": "node --trace-warnings server.js"
+  }
+  
