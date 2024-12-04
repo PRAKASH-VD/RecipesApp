@@ -9,7 +9,7 @@ A simple CRUD application for managing recipes built with Node.js, Express, Mong
 - View individual recipes by their unique ID.
 - Update and delete recipes.
 ## API REQUEST
-1.Create a new recipe by sending a POST request to http://localhost:5000/api/recipes 
+1.Create a new recipe by sending a POST request to http://localhost:3000/api/recipes 
 2.Get all recipes by sending a GET request to http://localhost:3000/api/recipes.
 3.Get a recipe by ID with a GET request to http://localhost:3000/api/recipes/{id}.
 4.Update a recipe by sending a PUT request to http://localhost:3000/api/recipes/{id}.
